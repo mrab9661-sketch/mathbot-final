@@ -6,7 +6,7 @@ from telebot import types
 
 # --- কনফিগারেশন ---
 # এখানে আপনার আসল বটের টোকেনটি বসাবেন
-BOT_TOKEN = "7295713401:AAEbYmOnA-YUnZ" 
+BOT_TOKEN = "8606592862:AAF4R5u6jaM78RzWeduWqpWF6OZDml2SZ-k" 
 
 # আপনার চ্যানেলের ইউজারনেম (@ সহ)
 CHANNEL_USERNAME = "@ai_income_bdt" 
